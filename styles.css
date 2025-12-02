@@ -1,0 +1,37 @@
+
+/* Supporting documents area */
+.supporting-docs {
+  margin-top: 1rem;
+  padding-top: 0.8rem;
+  border-top: 1px dashed rgba(31, 41, 55, 0.85);
+}
+
+.supporting-docs h3 {
+  font-size: 0.9rem;
+  margin: 0 0 0.25rem;
+}
+
+.supporting-help {
+  margin: 0 0 0.4rem;
+  font-size: 0.8rem;
+  color: var(--text-soft);
+}
+
+.supporting-docs ul {
+  margin: 0;
+  padding-left: 1rem;
+}
+
+.supporting-docs li {
+  font-size: 0.83rem;
+  margin-bottom: 0.2rem;
+}
+
+.supporting-docs a {
+  color: #a7f3d0;
+  text-decoration: none;
+}
+
+.supporting-docs a:hover {
+  text-decoration: underline;
+}
